@@ -39,6 +39,8 @@ if(sprite_index == spr_character_push_up){	/// @DnDAction : YoYo Games.Collisi
 /// @DnDVersion : 1
 /// @DnDHash : 7FF102B7
 /// @DnDArgument : "var" "sprite_index"
+/// @DnDArgument : "value" "spr_character_push_down"
+if(sprite_index == spr_character_push_down){	/// @DnDAction : YoYo Games.Collisions.If_Object_At
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 6A702963
 	/// @DnDApplyTo : other
