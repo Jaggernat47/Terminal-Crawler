@@ -32,8 +32,8 @@
   "nineSlice":null,
   "origin":7,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Character run",
+    "path":"folders/Sprites/Character/Character run.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,7 +12,14 @@ if(sprite_index == spr_character_right || sprite_index == spr_character_right_ru
 	/// @DnDArgument : "objectid" "obj_action_pull_right"
 	/// @DnDArgument : "layer" ""character""
 	/// @DnDSaveInfo : "objectid" "obj_action_pull_right"
-	instance_create_layer(x + 20, y + 0, "character", obj_action_pull_right);}
+	instance_create_layer(x + 20, y + 0, "character", obj_action_pull_right);
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 280FFDDA
+	/// @DnDParent : 2017545A
+	sprite_index = noone;
+	image_index = 0;}
 
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
