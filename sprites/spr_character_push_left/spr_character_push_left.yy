@@ -28,7 +28,7 @@
   ],
   "name":"spr_character_push_left",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Character Push",
     "path":"folders/Sprites/Character/Character Push.yy",
@@ -95,7 +95,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":34,
+    "xorigin":30,
     "yorigin":68,
   },
   "swatchColours":null,

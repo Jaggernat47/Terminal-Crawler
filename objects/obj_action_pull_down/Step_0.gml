@@ -3,7 +3,7 @@
 /// @DnDHash : 224E40CA
 /// @DnDInput : 2
 /// @DnDArgument : "value" "obj_character.x"
-/// @DnDArgument : "value_1" "obj_character.y"
+/// @DnDArgument : "value_1" "obj_character.y-20"
 /// @DnDArgument : "instvar_1" "1"
 x = obj_character.x;
-y = obj_character.y;
+y = obj_character.y-20;
