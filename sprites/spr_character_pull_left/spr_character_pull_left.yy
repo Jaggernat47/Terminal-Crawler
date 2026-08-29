@@ -28,7 +28,7 @@
   ],
   "name":"spr_character_pull_left",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Character Pull",
     "path":"folders/Sprites/Character/Character Pull.yy",
@@ -95,7 +95,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":34,
+    "xorigin":33,
     "yorigin":68,
   },
   "swatchColours":null,
