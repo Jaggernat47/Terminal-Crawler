@@ -42,6 +42,9 @@
     "name":"spr_cube",
     "path":"sprites/spr_cube/spr_cube.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_cube",
+    "path":"sprites/spr_cube/spr_cube.yy",
+  },
   "visible":true,
 }

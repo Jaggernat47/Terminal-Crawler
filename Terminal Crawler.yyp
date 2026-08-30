@@ -74,6 +74,7 @@
     {"id":{"name":"spr_green_sensor_floor","path":"sprites/spr_green_sensor_floor/spr_green_sensor_floor.yy",},},
     {"id":{"name":"spr_green_sensor_wall","path":"sprites/spr_green_sensor_wall/spr_green_sensor_wall.yy",},},
     {"id":{"name":"spr_locked_door","path":"sprites/spr_locked_door/spr_locked_door.yy",},},
+    {"id":{"name":"spr_pressE","path":"sprites/spr_pressE/spr_pressE.yy",},},
     {"id":{"name":"spr_red_sensor_floor","path":"sprites/spr_red_sensor_floor/spr_red_sensor_floor.yy",},},
     {"id":{"name":"spr_red_sensor_wall","path":"sprites/spr_red_sensor_wall/spr_red_sensor_wall.yy",},},
     {"id":{"name":"spr_unlocked_door","path":"sprites/spr_unlocked_door/spr_unlocked_door.yy",},},
